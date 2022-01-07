@@ -1,0 +1,15 @@
+body{}
+.con-tainer{}
+.box{
+	margin-bottom: 10px;
+	min-height: 100px;
+	background-color: red;
+}
+.mh{
+	margin-bottom: 10px;
+	min-height: 300px;
+	background-color: #ddd;
+}
+.frm{
+	padding-top: 3rem;
+}
